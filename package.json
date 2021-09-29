@@ -25,6 +25,6 @@
     },
     "dependencies": {
         "datatables": "^1.10.18",
-        "datatables.net": "^1.10.20"
+        "datatables.net": "^1.11.3"
     }
 }
